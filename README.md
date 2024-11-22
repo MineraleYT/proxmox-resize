@@ -7,7 +7,7 @@ L'installazione viene fatta tramite CLI. Segui i vari comandi step by step per l
 
 ```
 apt install git
-git clone https://github.com/MinerAle00/proxmox-resize.git
+git clone https://github.com/MineraleYT/proxmox-resize.git
 cd proxmox-resize
 bash script.sh
 ```
